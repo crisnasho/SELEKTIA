@@ -1,15 +1,8 @@
-<<<<<<< HEAD
 /* Estilos generales */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   background: #000; /* Fondo negro */
-=======
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  background: #000; 
->>>>>>> 7ad0f354e4c6ede81a38291fcb8af627344b16b9
   color: #f4f4f9;
 }
 
@@ -84,11 +77,7 @@ button:hover {
   background: #00b4d8;
 }
 
-<<<<<<< HEAD
 /* Footer */
-=======
-/* Foot */
->>>>>>> 7ad0f354e4c6ede81a38291fcb8af627344b16b9
 footer {
   text-align: center;
   padding: 15px;
